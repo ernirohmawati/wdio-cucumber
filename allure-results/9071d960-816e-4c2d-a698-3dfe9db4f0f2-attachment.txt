@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#remove-sauce-labs-backpack\"}\n  (Session info: chrome=126.0.6478.127)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7D7ABEEC2+31554]\n\t(No symbol) [0x00007FF7D7A37EF9]\n\t(No symbol) [0x00007FF7D78F872A]\n\t(No symbol) [0x00007FF7D7948434]\n\t(No symbol) [0x00007FF7D794853C]\n\t(No symbol) [0x00007FF7D798F6A7]\n\t(No symbol) [0x00007FF7D796D06F]\n\t(No symbol) [0x00007FF7D798C977]\n\t(No symbol) [0x00007FF7D796CDD3]\n\t(No symbol) [0x00007FF7D793A33B]\n\t(No symbol) [0x00007FF7D793AED1]\n\tGetHandleVerifier [0x00007FF7D7DC8B5D+3217373]\n\tGetHandleVerifier [0x00007FF7D7E15B23+3532707]\n\tGetHandleVerifier [0x00007FF7D7E0B120+3489184]\n\tGetHandleVerifier [0x00007FF7D7B6E796+750614]\n\t(No symbol) [0x00007FF7D7A4377F]\n\t(No symbol) [0x00007FF7D7A3EB34]\n\t(No symbol) [0x00007FF7D7A3ECC2]\n\t(No symbol) [0x00007FF7D7A2E18F]\n\tBaseThreadInitThunk [0x00007FFF004E257D+29]\n\tRtlUserThreadStart [0x00007FFF0196AF28+40]\n"
+}
